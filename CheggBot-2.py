@@ -92,7 +92,7 @@ def data():
         
  
  
-app.run(host='0.0.0.0', port=5000)
+app.run(host='10.168.1.205', port=5000)
 
 
 # In[7]:
